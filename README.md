@@ -28,7 +28,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-To view a live example, **[click here](https://ashutosh1919.github.io/)**
+To view a live example, **[click here](https://main--abdul-subhan-portfolio.netlify.app/)**
 
 # Clone and Use 📋
 
